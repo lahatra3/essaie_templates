@@ -1,6 +1,0 @@
-titre Modeling
-presentation:
-	-Agence qui aide les jeunes filles passionnées sur la mode et qui rêve de devenir top.
-	-Notre agence de coaching oriente les jeunes sur leur choix en adoptant des stratégies éfficaces et efficient dans leur carrière avenir
-	-prix: nous offrons un prix unique pour chaque formation dont la valeur et de 350 000 Ar pour chaque module
-	-www.modeling@.mg
